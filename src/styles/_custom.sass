@@ -53,13 +53,18 @@
 
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
+.banner-principal .tarjeta
+  @media screen and (max-width: $bp-max-sm)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+  @media screen and (max-width: $bp-max-xs)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
 
-.banner-principal .tarjeta
-  @media screen and (max-width: $bp-max-sm)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+figcaption
+  font-weight: normal
 
 .bg-color
   &-1
@@ -165,6 +170,10 @@
       border-top: 10px solid transparent
       border-bottom: 10px solid transparent
       border-left: 10px solid #A82250
+  &-2
+    @media (max-width: $bp-max-xs) 
+      .slyder-a__bullets__item
+        margin: 0 2px
 @media (max-width: 768px) 
   .pst-1::before 
     display: none
@@ -191,7 +200,7 @@
   align-items: center
 .titulo-con-imagen__imagen
   position: absolute
-  left: -30px
+  left: -17px
   width: 50px
 .titulo-con-imagen__texto
   margin: 0
