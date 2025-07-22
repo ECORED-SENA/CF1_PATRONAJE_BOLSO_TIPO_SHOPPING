@@ -22,7 +22,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              | Cuerpo (frontal Espaldar).
+              | Cuerpo (frontal espaldar).
             li 
               .lista-ol--cuadro__vineta
                 span 2
@@ -30,7 +30,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              | Base o Fondo.
+              | Base o fondo.
             li 
               .lista-ol--cuadro__vineta
                 span 4

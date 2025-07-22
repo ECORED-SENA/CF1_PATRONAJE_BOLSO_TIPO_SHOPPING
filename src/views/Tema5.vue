@@ -133,13 +133,13 @@
       .col-lg-7
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-8")
           div(titulo="Pinza a 90 grados")
-            p.ms-5 Se logra volumen en la base o costados mediante un quiebre perpendicular. El patrón parte de un rectángulo al que se eliminan cuadrados en las esquinas inferiores para formar ángulos de 90°, creando una base estructurada sin necesidad de fuelle. Usado en bolsos Tote o Shopping.
+            p.ms-5 Se logra volumen en la base o costados mediante un quiebre perpendicular. El patrón parte de un rectángulo al que se eliminan cuadrados en las esquinas inferiores para formar ángulos de 90°, creando una base estructurada sin necesidad de fuelle. Usado en bolsos tote o <em>shopping</em>.
           div(titulo="Pinza")
             p.ms-5 Utiliza pliegues incorporados en el patrón frontal o posterior para generar volumen tridimensional. No requiere fuelles. Común en bolsos tipo <em>pouch</em> o <em>clutch</em>.
           div(titulo="A partir del fuelle o falso")
             p.ms-5 El fuelle actúa como pieza base. A partir de su forma se obtienen el frente y posterior. Ideal para bolsos estructurados como el <em>doctor bag</em> o <em>barrel</em>.
           div(titulo="A partir de la base")
-            p.ms-5 Se parte de la forma de la base (ovalada, redonda, etc.) y se proyectan las demás piezas siguiendo su perímetro. Típico en bolsos tipo <em>bucket</em> o shopping estructurado.
+            p.ms-5 Se parte de la forma de la base (ovalada, redonda, etc.) y se proyectan las demás piezas siguiendo su perímetro. Típico en bolsos tipo <em>bucket</em> o <em>shopping</em> estructurado.
           div(titulo="A partir del frontal")
             p.ms-5 El diseño se desarrolla desde el frontal, del cual se derivan las otras piezas (base, laterales, posterior). Utilizado en bolsos tipo <em>satchel, messenger o shopping</em>.
           div(titulo="A partir del frontal y el fuelle")

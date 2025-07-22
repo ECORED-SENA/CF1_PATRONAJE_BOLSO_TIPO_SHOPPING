@@ -54,7 +54,7 @@
           .col-lg-6.order-lg-1
             figure
               img(src='@/assets/curso/tema3/2.png', alt='Texto que describa la imagen')
-      .py-3.py-lg-4(titulo="Cuero al cromo")
+      .py-3.py-lg-4(titulo="Cuero vegetal")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-lg-2
             h4 Cuero vegetal
@@ -63,7 +63,7 @@
           .col-lg-6.order-lg-1
             figure
               img(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')
-      .py-3.py-lg-4(titulo="Cuero al cromo")
+      .py-3.py-lg-4(titulo="Cuero mixto")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-lg-2
             h4 Cuero mixto
@@ -78,7 +78,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Curtidos alternativos
     
-    p.mb-5 Existen métodos de curtido alternativos al tradicional al cromo o vegetal. Estos emplean agentes menos contaminantes y con mejor biodegradabilidad, orientados a reducir el impacto ambiental sin sacrificar la calidad del producto. A continuación, se describen los más relevantes:
+    p.mb-5 Existen métodos de curtido alternativos al tradicional, al cromo o vegetal. Estos emplean agentes menos contaminantes y con mejor biodegradabilidad, orientados a reducir el impacto ambiental sin sacrificar la calidad del producto. A continuación, se describen los más relevantes:
 
     .row.mb-5
       .col-lg-3.mb-3.mb-lg-0
@@ -86,19 +86,19 @@
           img(src="@/assets/curso/tema3/5.png", data-aos="zoom-in")
       .col-lg-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-8")
-          div(titulo="Curtido con Aluminio (<em>Wet White</em>)")
+          div(titulo="Curtido con aluminio (<em>wet white</em>)")
             div.ms-5
               p Utiliza sales de aluminio en lugar de cromo. Produce un cuero más claro, con alta capacidad de teñido. Más ecológico, aunque menos resistente al agua. 
               p <b>Usos</b>: Guantes, ropa, marroquinería, calzado fino.
-          div(titulo="Curtido con Titanio")
+          div(titulo="Curtido con titanio")
             div.ms-5
               p Emplea sales de titanio, evitando metales pesados. Más biodegradable, seguro para el ambiente. Cuero suave, claro, pero menos resistente que el curtido al cromo. 
               p <b>Usos</b>: Guantes, ropa, marroquinería, calzado fino.
-          div(titulo="Curtido con Aldehídos (<em>Wet White</em>)")
+          div(titulo="Curtido con aldehídos (<em>wet white</em>)")
             div.ms-5
               p Usa glutaraldehído o formaldehído. Da un cuero muy flexible y suave, aunque con menor resistencia. Algunas variantes eliminan formaldehído por razones ambientales.  
               p <b>Usos</b>: Interiores de automóviles, marroquinería, calzado.
-          div(titulo="Curtido con Sílice")
+          div(titulo="Curtido con sílice")
             div.ms-5
               p Basado en compuestos de dióxido de silicio. Evita metales, tiene bajo impacto ambiental. El cuero resultante es ligero y flexible. 
               p <b>Usos</b>: Guantes, tapicería, marroquinería, ropa y calzado fino.
@@ -120,7 +120,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h4 Cuero plena flor
               p Capa más externa, sin lijar. Conserva la textura natural. Alta resistencia y envejecimiento elegante. 
-              p <b>Usos</b>: Bolsos de lujo, carteras finas, maletines ejecutivos, cinturones premium.
+              p <b>Usos</b>: bolsos de lujo, carteras finas, maletines ejecutivos, cinturones premium.
 
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
@@ -128,8 +128,8 @@
                 img(src="@/assets/curso/tema3/7.png")
             .col-lg-6.order-1.mb-3.mb-lg-0
               h4 Cuero flor corregida
-              p Lijado superficial para eliminar imperfecciones. Acabado uniforme, más económico
-              p <b>Usos</b>: Bolsos comerciales, billeteras, estuches, artículos promocionales.
+              p Lijado superficial para eliminar imperfecciones. Acabado uniforme, más económico.
+              p <b>Usos</b>: bolsos comerciales, billeteras, estuches, artículos promocionales.
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
               figure
@@ -137,7 +137,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h4 Gamuza o ante
               p Del reverso de la piel. Textura aterciopelada, suave, pero delicada ante el agua. 
-              p <b>Usos</b>: Bolsos tipo saco, carteras de moda, accesorios femeninos, detalles decorativos.
+              p <b>Usos</b>: bolsos tipo saco, carteras de moda, accesorios femeninos, detalles decorativos.
 
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
@@ -146,7 +146,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h4 <em>Nobuk</em>
               p Lijado fino de la cara externa. Acabado suave, más resistente que la gamuza. 
-              p <b>Usos</b>: Bolsos urbanos, mochilas elegantes, portadocumentos.
+              p <b>Usos</b>: bolsos urbanos, mochilas elegantes, portadocumentos.
 
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-5.order-2
@@ -155,7 +155,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h4 Cuero charol
               p Acabado brillante mediante barniz o plástico. Superficie lisa y resistente a la humedad superficial. 
-              p <b>Usos</b>: Carteras de fiesta, bolsos de noche, monederos, cinturones decorativos.
+              p <b>Usos</b>: carteras de fiesta, bolsos de noche, monederos, cinturones decorativos.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -173,31 +173,31 @@
                 img(src='@/assets/curso/tema3/12.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Cuero vacuno
                 p.text-center Grueso, resistente, fácil de trabajar. Alta firmeza y superficie uniforme. 
-                p.text-center <b>Usos</b>: Bolsos estructurados, cinturones, mochilas, maletines.
+                p.text-center <b>Usos</b>: bolsos estructurados, cinturones, mochilas, maletines.
 
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema3/13.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Cuero ovino (cordero)
                 p.text-center Muy suave y flexible. Tacto fino, ideal para acabados delicados. 
-                p.text-center <b>Usos</b>: Carteras de mano, bolsos femeninos, billeteras elegantes, forros de lujo.
+                p.text-center <b>Usos</b>: carteras de mano, bolsos femeninos, billeteras elegantes, forros de lujo.
 
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema3/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Cuero caprino (cabra)
                 p.text-center Textura granulada natural. Ligero, duradero y resistente. 
-                p.text-center <b>Usos</b>: Carteras de lujo, bolsos pequeños, accesorios finos, guantería.
+                p.text-center <b>Usos</b>: carteras de lujo, bolsos pequeños, accesorios finos, guantería.
 
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema3/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 porcino
                 p.text-center Económico, con poros visibles. Menor durabilidad. 
-                p.text-center <b>Usos</b>: Forros de bolsos, billeteras económicas, artículos promocionales.
+                p.text-center <b>Usos</b>: forros de bolsos, billeteras económicas, artículos promocionales.
 
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema3/16.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Cueros exóticos (cocodrilo, serpiente, avestruz)
                 p.text-center Apariencia exclusiva, patrones naturales únicos. 
-                p.text-center <b>Usos</b>: Bolsos de lujo, carteras de diseñador, cinturones premium, detalles visuales de alto impacto.
+                p.text-center <b>Usos</b>: bolsos de lujo, carteras de diseñador, cinturones premium, detalles visuales de alto impacto.
 
     
           .col-lg-3.order-lg-1
@@ -246,7 +246,7 @@
               figure
                 img(src="@/assets/curso/tema3/20.png")
             .col-lg-6.order-1.mb-3.mb-lg-0
-              h4 <em>Nylon </em> y Poliéster
+              h4 <em>Nylon </em> y poliéster
               p Alta resistencia a la tracción, secado rápido, transpirables. Disponibles en múltiples texturas y colores. Usados en forros de bolsos, mochilas técnicas, bolsos deportivos y bolsillos internos.
 
           .row.align-items-center.p-4.p-md-5.justify-content-center

@@ -162,12 +162,12 @@ export default {
             },
             {
               id: 'b',
-              texto: '<em>Messenger Bag/em>.',
+              texto: '<em>Messenger bag/em>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Barrel Bag/em>.',
+              texto: '<em>Barrel bag/em>.',
               esCorrecta: true,
             },
             {
@@ -354,7 +354,7 @@ export default {
         {
           id: 12,
           texto:
-            'Los bolsos tipo Tote y Shopping suelen construirse con pinzas a 90 grados.',
+            'Los bolsos tipo Tote y <em>Shopping</em> suelen construirse con pinzas a 90 grados.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

@@ -57,7 +57,7 @@
     p.mb-5 Los siguientes materiales son los más comunes en esta etapa, cada uno seleccionado según la función y el diseño del producto:
 
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="Cuero al cromo")
+      .py-3.py-md-4(titulo="Cuero natural")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-lg-2
             h4 Cuero natural
@@ -65,8 +65,8 @@
         
           .col-lg-6.order-lg-1
             figure
-              img(src='@/assets/curso/tema4/6.png', alt='Texto que describa la imagen')
-      .py-3.py-lg-4(titulo="Cuero al cromo")
+              img(src='@/assets/curso/tema4/6.png', alt='')
+      .py-3.py-lg-4(titulo="Materiales sintéticos (PU, PVC)")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-lg-2
             h4 Materiales sintéticos (PU, PVC)
@@ -74,8 +74,8 @@
         
           .col-lg-6.order-lg-1
             figure
-              img(src='@/assets/curso/tema4/7.png', alt='Texto que describa la imagen')
-      .py-3.py-lg-4(titulo="Cuero al cromo")
+              img(src='@/assets/curso/tema4/7.png', alt='')
+      .py-3.py-lg-4(titulo="Textiles (lona, microfibra)")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-lg-2
             h4 Textiles (lona, microfibra)
@@ -83,8 +83,8 @@
         
           .col-lg-6.order-lg-1
             figure
-              img(src='@/assets/curso/tema4/8.png', alt='Texto que describa la imagen')
-      .py-3.py-lg-4(titulo="Cuero al cromo")
+              img(src='@/assets/curso/tema4/8.png', alt='')
+      .py-3.py-lg-4(titulo="Salpas, espumas, EVAS")
         .row.p-4.align-items-center
           .col-lg-6.mb-4.mb-lg-0.order-lg-2
             h4 Salpas, espumas, EVAS
@@ -92,7 +92,7 @@
         
           .col-lg-6.order-lg-1
             figure
-              img(src='@/assets/curso/tema4/9.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/9.png', alt='')
 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -103,35 +103,35 @@
     p.mb-5 El corte de materiales puede realizarse mediante diferentes técnicas, elegidas en función del volumen de producción y el tipo de material.
 
     TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Algodón")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Manual")
         .row.align-items-center
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/tema4/10.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/10.png', alt='')
           .col-xl-8
             h4 Manual
             p Uso de tijeras o cuchillas con plantillas físicas. Apto para producción artesanal o bajo volumen.  
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Lino")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Troquelado")
         .row.align-items-center
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/tema4/11.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/11.png', alt='')
           .col-xl-8
             h4 Troquelado
             p Se usan moldes de acero afilados (troqueles) que, mediante presión, cortan con precisión. Ideal para producción en serie. 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Lana")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Corte láser")
         .row.align-items-center
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/tema4/12.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/12.png', alt='')
           .col-xl-8
             h4 Corte láser
             p Tecnología precisa para cortes limpios en cuero, sintéticos y textiles. 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Seda")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Corte automatizado")
         .row.align-items-center
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/tema4/13.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/13.png', alt='')
           .col-xl-8
             h4 Corte automatizado
             p Corte programado por computadora con cuchilla oscilante. Proporciona rapidez y alta exactitud.
@@ -154,31 +154,31 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Eliminar impurezas en los bordes
+                  p.mb-0 Eliminar impurezas en los bordes.
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Reducir el espesor en zonas clave
+                  p.mb-0 Reducir el espesor en zonas clave.
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Optimizar la adherencia de adhesivos
+                  p.mb-0 Optimizar la adherencia de adhesivos.
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Mejorar el acabado final
+                  p.mb-0 Mejorar el acabado final.
           div(titulo="Procedimiento")
             div.ms-5
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Selección de zonas a desbastar (suela, cortes, uniones)
+                  p.mb-0 Selección de zonas a desbastar (suela, cortes, uniones).
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Control de presión y espesor para evitar daños
+                  p.mb-0 Control de presión y espesor para evitar daños.
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-11
-                  p.mb-0 Limpieza de residuos generados
+                  p.mb-0 Limpieza de residuos generados.
           div(titulo="Herramientas y maquinaria")
             div.ms-5
-              p Desbastadoras y cuchillas especiales que permiten precisión en el trabajo
+              p Desbastadoras y cuchillas especiales que permiten precisión en el trabajo.
     
     separador
 
