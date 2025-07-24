@@ -233,7 +233,8 @@ export default {
     {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. Artesanías de Colombia. (2020). Técnica del oficio del cuero. Artesanías de Colombia.  ',
-      link: 'https://repositorio.artesaniasdecolombia.com.co/handle/001/6336. ',
+      link:
+        'https://repositorio.artesaniasdecolombia.com.co/bitstream/001/6336/1/INST-D%202020.%20376.pdf',
     },
     {
       referencia: 'Fogg, M. (2009). Bolsos Vintage. Parramón.',
