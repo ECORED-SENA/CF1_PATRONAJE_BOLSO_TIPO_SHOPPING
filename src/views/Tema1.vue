@@ -10,59 +10,59 @@
     p.mb-5 La estructura del bolso se refiere a la organización y disposición de sus partes fundamentales, las cuales definen su funcionalidad, forma, resistencia y estética. Comprender esta estructura es esencial para el diseño y patronaje preciso, ya que cada componente cumple una función técnica y visual específica. Cada una de estas partes debe integrarse con precisión durante el patronaje para garantizar un producto funcional, ergonómico y estéticamente atractivo. Esto permite al patronista desarrollar moldes adecuados, optimizar materiales y facilitar los procesos de corte, ensamble y confección. A continuación se describen las principales partes de un bolso:
 
     .row.mb-5.justify-content-center
-      .col-lg-4.order-lg-2.mb-3.mb-lg-0
+      .col-lg-6.order-lg-2.mb-3.mb-lg-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
           span Partes del bolso.
         figure
-          img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
-      .col-lg-4.order-lg-1
-        .bg-color-2.p-5.tarjeta(data-aos="fade-left")
-          ol.lista-ol--cuadro.mb-0
-            li 
-              .lista-ol--cuadro__vineta
-                span 1
-              | Cuerpo (frontal espaldar).
-            li 
-              .lista-ol--cuadro__vineta
-                span 2
-              | Fuelle, falso o costado.
-            li 
-              .lista-ol--cuadro__vineta
-                span 3
-              | Base o fondo.
-            li 
-              .lista-ol--cuadro__vineta
-                span 4
-              | Tapa o solapa.
-            li 
-              .lista-ol--cuadro__vineta
-                span 5
-              | Asas o correas.
-            li 
-              .lista-ol--cuadro__vineta
-                span 6
-              | Forro interno.
-            li 
-              .lista-ol--cuadro__vineta
-                span 7
-              | Chapeta.
-            li 
-              .lista-ol--cuadro__vineta
-                span 8
-              | Cremallera (bolsillo interno).
-            li 
-              .lista-ol--cuadro__vineta
-                span 9
-              | Herrajes.
-            li 
-              .lista-ol--cuadro__vineta
-                span 10
-              | Slider o cierre de cremallera.
-            li 
-              .lista-ol--cuadro__vineta
-                span 11
-              | Refuerzo o alma de base.
+          img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in", style="max-width: 400px;").mx-auto
+      //- .col-lg-4.order-lg-1
+      //-   .bg-color-2.p-5.tarjeta(data-aos="fade-left")
+      //-     ol.lista-ol--cuadro.mb-0
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 1
+      //-         | Cuerpo (frontal espaldar).
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 2
+      //-         | Fuelle, falso o costado.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 3
+      //-         | Base o fondo.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 4
+      //-         | Tapa o solapa.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 5
+      //-         | Asas o correas.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 6
+      //-         | Forro interno.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 7
+      //-         | Chapeta.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 8
+      //-         | Cremallera (bolsillo interno).
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 9
+      //-         | Herrajes.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 10
+      //-         | Slider o cierre de cremallera.
+      //-       li 
+      //-         .lista-ol--cuadro__vineta
+      //-           span 11
+      //-         | Refuerzo o alma de base.
     
     .row.mb-5
       .col-lg-5.mb-3.mb-lg-0
