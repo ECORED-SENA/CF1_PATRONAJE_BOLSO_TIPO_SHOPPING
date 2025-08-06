@@ -200,7 +200,7 @@
                 p.text-center <b>Usos</b>: bolsos de lujo, carteras de diseñador, cinturones premium, detalles visuales de alto impacto.
 
     
-          .col-lg-3.order-lg-1
+          .col-lg-3.order-lg-1.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema3/11.png', alt='')
 

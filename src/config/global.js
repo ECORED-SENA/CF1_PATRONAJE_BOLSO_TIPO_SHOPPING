@@ -9,15 +9,15 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
       },
       {
         clases: ['banner-principal-decorativo-3'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
       {
         clases: ['banner-principal-decorativo-4'],
@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/xxxxx_CF01_DU.pdf',
+        download: 'downloads/CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -279,13 +279,13 @@ export default {
           nombre: 'Elkin Darío Fontecha Pardo',
           cargo: 'Experta temático',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya',
           cargo: 'Evaluadora instruccional',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -296,13 +296,13 @@ export default {
           nombre: 'Geraldine Viviana Fernandez Jaramillo',
           cargo: 'Diseñador de contenidos digitales',
           centro:
-            'Regional Antioquia - Centro de Formación Centro de Servicios de Salud.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Manuel Felipe Echavarría Orozco',
           cargo: 'Desarrollador fullstack',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -313,25 +313,25 @@ export default {
           nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

@@ -15,7 +15,7 @@
           h5 Figura 1
           span Partes del bolso.
         figure
-          img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in", style="max-width: 400px;").mx-auto
+          img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in", style="max-width: 400px;", alt="Esquema de las partes del bolso que incluye cuerpo principal, base, laterales, tapa, asa, broche, bolsillo externo, forro interno, bolsillo interno, cremallera y fondo rígido.").mx-auto
       //- .col-lg-4.order-lg-1
       //-   .bg-color-2.p-5.tarjeta(data-aos="fade-left")
       //-     ol.lista-ol--cuadro.mb-0

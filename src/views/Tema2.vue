@@ -18,7 +18,7 @@
                 img(src="@/assets/curso/tema2/1.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Tote bag</em>
-              p <b>Descripción</b>. Bolso de gran capacidad, con forma rectangular, trapezoidal o cuadrada, diseñado con dos asas paralelas que permiten llevarlo cómodamente al hombro o en la mano. Es ideal para el uso diario gracias a su amplitud y funcionalidad. 
+              p Bolso de gran capacidad, con forma rectangular, trapezoidal o cuadrada, diseñado con dos asas paralelas que permiten llevarlo cómodamente al hombro o en la mano. Es ideal para el uso diario gracias a su amplitud y funcionalidad. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -39,7 +39,7 @@
                 img(src="@/assets/curso/tema2/2.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Hobo bag</em>
-              p <b>Descripción</b>. Bolso de silueta suave, curvada y flexible, generalmente en forma de media luna. 
+              p Bolso de silueta suave, curvada y flexible, generalmente en forma de media luna. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -60,7 +60,7 @@
                 img(src="@/assets/curso/tema2/3.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Bowling bag</em>
-              p <b>Descripción</b>. Inspirado en los bolsos para bolas de bolos, es de forma redondeada y estructurada. 
+              p Inspirado en los bolsos para bolas de bolos, es de forma redondeada y estructurada. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -78,7 +78,7 @@
                 img(src="@/assets/curso/tema2/4.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Satchel</em>
-              p <b>Descripción</b>. Bolso estructurado con solapa frontal y, usualmente, un broche o cierre.
+              p Bolso estructurado con solapa frontal y, usualmente, un broche o cierre.
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -99,7 +99,7 @@
                 img(src="@/assets/curso/tema2/5.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Baguette</em>
-              p <b>Descripción</b>. Bolso alargado y estrecho que se lleva bajo el brazo, similar a una barra de pan.
+              p Bolso alargado y estrecho que se lleva bajo el brazo, similar a una barra de pan.
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -129,7 +129,7 @@
                 img(src="@/assets/curso/tema2/6.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Doctor bag</em>
-              p <b>Descripción</b>. Inspirado en los bolsos médicos antiguos, de forma rectangular con apertura rígida tipo boquilla. 
+              p Inspirado en los bolsos médicos antiguos, de forma rectangular con apertura rígida tipo boquilla. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -147,7 +147,7 @@
                 img(src="@/assets/curso/tema2/7.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Barrel bag</em>
-              p <b>Descripción</b>. Bolso cilíndrico con asas cortas y correa larga.
+              p Bolso cilíndrico con asas cortas y correa larga.
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -165,7 +165,7 @@
                 img(src="@/assets/curso/tema2/8.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Drawstring bag</em> (bolso de cordón)
-              p <b>Descripción</b>. Bolso cerrado con cordón que se ajusta tirando desde la parte superior. 
+              p Bolso cerrado con cordón que se ajusta tirando desde la parte superior. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -183,7 +183,7 @@
                 img(src="@/assets/curso/tema2/9.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Shoulder bag</em>
-              p <b>Descripción</b>. Bolso diseñado para colgar al hombro, de tamaño mediano o grande. 
+              p Bolso diseñado para colgar al hombro, de tamaño mediano o grande. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -201,7 +201,7 @@
                 img(src="@/assets/curso/tema2/10.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Bandolera</em>
-              p <b>Descripción</b>. Bolso con correa larga cruzada sobre el pecho. 
+              p Bolso con correa larga cruzada sobre el pecho. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -225,7 +225,7 @@
                 img(src="@/assets/curso/tema2/11.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Messenger bag</em>
-              p <b>Descripción</b>. Bolso rectangular con solapa frontal, tipo cartera de mensajero. 
+              p Bolso rectangular con solapa frontal, tipo cartera de mensajero. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -243,7 +243,7 @@
                 img(src="@/assets/curso/tema2/12.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Frame bag</em>
-              p <b>Descripción</b>. Bolso con estructura metálica rígida en la abertura, que mantiene la forma del bolso.
+              p Bolso con estructura metálica rígida en la abertura, que mantiene la forma del bolso.
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -261,7 +261,7 @@
                 img(src="@/assets/curso/tema2/13.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Swing Pack </em> (manos libres)
-              p <b>Descripción</b>. Bolso pequeño y plano con correa larga, ideal para llevar objetos esenciales. 
+              p Bolso pequeño y plano con correa larga, ideal para llevar objetos esenciales. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -279,7 +279,7 @@
                 img(src="@/assets/curso/tema2/14.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Clutch</em>
-              p <b>Descripción</b>. Bolso de mano sin asas, de tamaño pequeño y con diseño elegante. 
+              p Bolso de mano sin asas, de tamaño pequeño y con diseño elegante. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -297,7 +297,7 @@
                 img(src="@/assets/curso/tema2/15.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Pouch</em>
-              p <b>Descripción</b>. Pequeño bolso o neceser sin asas, con cierre de cremallera o broche. . 
+              p Pequeño bolso o neceser sin asas, con cierre de cremallera o broche. . 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -315,7 +315,7 @@
                 img(src="@/assets/curso/tema2/16.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 Morral  <em>(backpack)</em>
-              p <b>Descripción</b>. Mochila con dos correas para llevar en la espalda. 
+              p Mochila con dos correas para llevar en la espalda. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -333,7 +333,7 @@
                 img(src="@/assets/curso/tema2/17.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Handbag</em> (bolso de mano)
-              p <b>Descripción</b>. Bolso clásico de tamaño mediano, con asas cortas para llevar en la mano o antebrazo.
+              p Bolso clásico de tamaño mediano, con asas cortas para llevar en la mano o antebrazo.
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -351,7 +351,7 @@
                 img(src="@/assets/curso/tema2/18.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Bucket bag </em> (bolso tipo cubo / mochila blanda)
-              p <b>Descripción</b>. Bolso de forma cilíndrica o cónica, cerrado por cordón. 
+              p Bolso de forma cilíndrica o cónica, cerrado por cordón. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -369,7 +369,7 @@
                 img(src="@/assets/curso/tema2/19.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Saddle bag</em>
-              p <b>Descripción</b>. Inspirado en las antiguas alforjas de montar a caballo, es un bolso con forma curva o semicircular y generalmente una solapa frontal que se asegura con broche, hebilla o imán. 
+              p Inspirado en las antiguas alforjas de montar a caballo, es un bolso con forma curva o semicircular y generalmente una solapa frontal que se asegura con broche, hebilla o imán. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -396,7 +396,7 @@
                 img(src="@/assets/curso/tema2/20.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Fanny Pack </em> (riñonera)
-              p <b>Descripción</b>. Es un bolso compacto diseñado para llevar alrededor de la cintura, aunque en la actualidad también se utiliza cruzado sobre el pecho o la espalda. 
+              p Es un bolso compacto diseñado para llevar alrededor de la cintura, aunque en la actualidad también se utiliza cruzado sobre el pecho o la espalda. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -423,7 +423,7 @@
                 img(src="@/assets/curso/tema2/21.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Mini bag</em>
-              p <b>Descripción</b>. El <em>mini bag</em> es una versión reducida de cualquier estilo de bolso tradicional, como tote, satchel o hobo. Más que funcional, es un accesorio de moda utilizado para complementar el <em>outfit</em>, ideal para ocasiones donde se necesita llevar muy pocas cosas. 
+              p El <em>mini bag</em> es una versión reducida de cualquier estilo de bolso tradicional, como tote, satchel o hobo. Más que funcional, es un accesorio de moda utilizado para complementar el <em>outfit</em>, ideal para ocasiones donde se necesita llevar muy pocas cosas. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -450,7 +450,7 @@
                 img(src="@/assets/curso/tema2/22.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Shopping bag</em>
-              p <b>Descripción</b>. Bolso grande y abierto, similar a las bolsas de compra reutilizables; su forma es muy parecida al <em>tote</em>, pero generalmente más grande y estructurada. Puede incluir compartimentos internos y exteriores. 
+              p Bolso grande y abierto, similar a las bolsas de compra reutilizables; su forma es muy parecida al <em>tote</em>, pero generalmente más grande y estructurada. Puede incluir compartimentos internos y exteriores. 
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
