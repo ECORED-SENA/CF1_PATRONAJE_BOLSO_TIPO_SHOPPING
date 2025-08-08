@@ -157,22 +157,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '<em>Clutch/em>.',
+              texto: '<em>Clutch</em>.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Messenger bag/em>.',
+              texto: '<em>Messenger bag</em>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Barrel bag/em>.',
+              texto: '<em>Barrel bag</em>.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: '<em>Satchel/em>.',
+              texto: '<em>Satchel</em>.',
               esCorrecta: false,
             },
           ],

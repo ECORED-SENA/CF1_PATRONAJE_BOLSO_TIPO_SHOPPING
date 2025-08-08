@@ -3,7 +3,7 @@ export default {
     Name:
       'Materiales, diseño y procesos productivos en la fabricación de bolsos',
     Description:
-      'El componente formativo "Materiales, diseño y procesos productivos en la fabricación de bolsos" ofrece una formación integral que abarca desde el conocimiento de la estructura y partes del bolso, hasta la identificación y clasificación de tipos de patrones y materiales utilizados en marroquinería (cueros, sintéticos y textiles). Además, aborda las fases completas del proceso productivo, incluyendo diseño, corte, desbaste, prearmado, armado, costura, acabados y control de calidad. ',
+      'El componente formativo "Materiales, diseño y procesos productivos en la fabricación de bolsos", ofrece una formación integral que abarca desde el conocimiento de la estructura y partes del bolso, hasta la identificación y clasificación de tipos de patrones y materiales utilizados en marroquinería (cueros, sintéticos y textiles). Además, aborda las fases completas del proceso productivo, incluyendo diseño, corte, desbaste, prearmado, armado, costura, acabados y control de calidad. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF01_DU.pdf',
+        download: 'downloads/52450485_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -267,7 +267,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -304,10 +304,28 @@ export default {
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
       ],
     },
     {
-      titulo: 'GESTORES DE REPOSITORIO',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
           nombre: 'Aixa Natalia Sendoya Fernández',

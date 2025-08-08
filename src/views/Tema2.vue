@@ -297,7 +297,7 @@
                 img(src="@/assets/curso/tema2/15.png")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h4 <em>Pouch</em>
-              p Pequeño bolso o neceser sin asas, con cierre de cremallera o broche. . 
+              p Pequeño bolso o neceser sin asas, con cierre de cremallera o broche.
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
